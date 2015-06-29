@@ -5,5 +5,5 @@ Gem::Specification.new do |s|
   s.authors     = ["Ferid Sejdović"]
   s.email       = 'fsejdovic@gmail.com'
   s.files       = ["/tictactoe.rb"]
-  s.description = "Play tic tac toe in your terminal"
+  s.description = "Play tic tac toe in your terminal..."
 end
