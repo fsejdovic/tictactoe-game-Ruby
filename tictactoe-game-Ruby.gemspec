@@ -1,0 +1,9 @@
+Gem::Specification.new do |s|
+  s.name        = 'ruby-tic-tac-toe'
+  s.version     = '1.0.0'
+  s.summary     = "A simple Tic-Tac-Toe game developed in Ruby"
+  s.authors     = ["Ferid Sejdović"]
+  s.email       = 'fsejdovic@gmail.com'
+  s.files       = ["/tictactoe.rb"]
+  s.description = "Play tic tac toe in your terminal"
+end
